@@ -1,3 +1,4 @@
 let test = 'hi';
 let next = 'next';
-let branch = 1;
+let main = 3;
+let new_branch = 4;
